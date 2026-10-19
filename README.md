@@ -115,6 +115,32 @@ I focus on finding defects that matter to users and businesses.
 
 ---
 
+## 🔎 Website Audits & Usability Analysis
+
+I also conduct independent website audits, combining QA expertise
+with a user-focused approach to product quality.
+
+### Services
+
+- **Website Usability Audits** — identifying navigation issues,
+  confusing interactions and usability barriers.
+- **UX/UI Reviews** — evaluating interface consistency, visual
+  hierarchy, layout and interaction patterns.
+- **Conversion Flow Analysis** — reviewing registration forms,
+  checkout processes and other critical user journeys.
+- **Mobile Usability Audits** — identifying responsive layout,
+  navigation and interaction issues on mobile devices.
+- **Functional QA Audits** — identifying functional defects,
+  inconsistent behavior and potential release risks.
+
+### Deliverables
+
+- Structured findings with screenshots and reproduction details
+- Prioritized list of usability and functional issues
+- Practical recommendations for improvements
+- Final audit report with actionable findings
+
+
 ## 🚀 Projects & Experiments
 
 Alongside my professional QA work, I build small personal projects
@@ -145,7 +171,7 @@ application behavior from both the user and technical perspectives.
 
 - **LinkedIn:** https://www.linkedin.com/in/denysoleksiienko/
 - **GitHub:** https://github.com/odesoftami
-- **Website:** https://odesoftami.net
+- **Blog:** https://odesoftami.net 
 
 ---
 
